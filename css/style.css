@@ -33,4 +33,5 @@ h1{
 .button{
     background-color: rgba(128, 128, 128, 0.575);
     padding-top: 25px;
+    cursor: pointer;
 }
